@@ -1,24 +1,52 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import Button from "react-bootstrap/Button";
+import ButtonGroup from "react-bootstrap/ButtonGroup";
+import Alert from "react-bootstrap/Alert";
+import Card from "react-bootstrap/Card";
+import Container from "react-bootstrap/Container";
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link,
+  useRouteMatch
+} from "react-router-dom";
+import PortfolioPage from './components/PortfolioPage';
+import AboutPage from './components/AboutPage';
+import ResumePage from './components/ResumePage';
+import Logo from "./images/logo.png"
+import NavBar from "./components/Navbar";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <Router>
+        <div>
+          <div className="bg bg-primary">
+              <nav className='text-center d-flex justify-content-around py-1 text-dark'>
+                  <Link to="/" className="text-white">About</Link>
+                  <Link to="/portfolio" className="text-white">Portfolio</Link>
+                  <Link to="/resume" className="text-white">Resume</Link>
+            </nav>
+          </div>   
+          <Switch>
+            <Route path="/portfolio">
+              <PortfolioPage />
+            </Route>
+            <Route path="/resume">
+              <ResumePage />
+            </Route>
+            <Route path="/">
+              <AboutPage />
+            </Route>
+          </Switch>
+        </div>
+      </Router>
+    </Container>
   );
 }
 
