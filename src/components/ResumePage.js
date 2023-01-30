@@ -41,8 +41,9 @@ function ResumePage() {
                                             <h3>Bachelor's Degree - Computer Science (Graduation March 2024)</h3>
                                         <ul>
                                             <li>Conversion of Software Requirement into Code</li>
+                                            <li>Object-Oriented Programming</li>
                                             <li>Development of Dynamic Webpages & Programs</li>
-                                            <li>Python, HTML/CSS, Java, & JavaScript</li>
+                                            <li>Python, HTML/CSS, C#, & JavaScript</li>
                                             <li>Develop Design & Problem-Solving Skills</li>
                                             <li>Develop Strong Communication & Interpersonal Skills</li>
                                         </ul>
@@ -71,6 +72,7 @@ function ResumePage() {
                                     <Accordion.Body>
                                         <h3>OMG Commerce (Digital Marketing Agency)</h3>
                                         <ul>
+                                        <li>Write code using Python, JavaScript, and Google Apps Scripts to improve reporting across the department and save on average of 20% of each employee’s time.</li>
                                             <li>Generate an average of 30% year over year sales increase for each client over past 1.5 years</li>
                                             <li>Manage $200-$250k of monthly ad spend and over $3 Million in monthly sales</li>
                                             <li>Analyze complex data trends and strategies within client accounts of more than 300 ad campaigns and communicate with non-technical teams in an understandable way</li>
@@ -104,7 +106,7 @@ function ResumePage() {
                                     <li>Experimentation and Testing</li>
                                     <li>Languages: English & Spanish (Fluent)</li>
                                     <li>Attention to Detail</li>
-                                    <li>Experienced with: HTML, CSS, JavaScript, React.js, node.js, Python</li>
+                                    <li>Experienced with: HTML, CSS, JavaScript, React.js, node.js, Python, C#</li>
                                     <li>Analytical Thinking/ Creative Problem Solving</li>
                                     <li>Ability to Learn from Mistakes/ Constant Improvement</li>
                                 </ul>
