@@ -38,16 +38,16 @@ function Footer() {
         <div className="bg bg-primary mt-5 rounded d-flex align-items-center justify-content-center">
             {socials.map((item, index) => {
                 return (
-                // <a href={item.link} target="_blank">
+                <a href={item.link} target="_blank" >
                     <img 
                 src={item.image} 
                 alt={item.name} 
                 key={index.toString()} 
-                height="3%"
-                width="3%" 
-                className="logos mx-5 my-4 rounded-circle">
+                // height="20%"
+                width="20%" 
+                className="logos mx-5 my-4 rounded-circle hover">
                 </img>
-                // </a>
+                </a>
                 
             )})}
         </div>

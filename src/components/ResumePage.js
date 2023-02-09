@@ -14,8 +14,8 @@ function ResumePage() {
                 <div className="row border border-black bg bg-secondary text-white text-center mt-5 rounded" >
                         <div className="col-lg">
                             <h1>Summary</h1>
-                            <p>I am a soon-to-be graduate of a Front End Engineering Bootcamp by Promineo Tech (July 2022). I have just under 1.5 years of experience in Front End Development, including a learning platform called Codecademy, and I am pursuing a Bachelor's Degree in Computer Science from BYU-Idaho. I am very experienced with HTML, CSS,  and JavaScript. I am also familiar with React.js, Python, Bootstrap, jQuery, AJAX, Git, GitHub, Object-Oriented Programming (OOP), and Responsive Web Design. 
-                                Also, I have extensive knowledge in digital marketing in general, as well as SEM (Search Engine Marketing). I have multiple certifications in the industry and have worked at a digital marketing agency for almost 2 years. </p>
+                            <p>I am a recent graduate of a Front End Software Engineering Bootcamp by Promineo Tech. I have just under 2 years of experience in Front End Development, including a learning platform called Codecademy, and I am pursuing a Bachelor's Degree in Computer Science from BYU-Idaho. I am very experienced with HTML, CSS, Python, and JavaScript. I am also familiar with React.js, Bootstrap, jQuery, AJAX, Git, GitHub, Object-Oriented Programming (OOP), and Responsive Web Design. 
+                                Also, I have extensive knowledge in digital marketing in general, as well as SEM (Search Engine Marketing). I have multiple certifications in the industry and have worked at a digital marketing agency for 2 years. During my time at the agency, I have used my coding knowledge to speed up many processes, and improve efficiency in ad reporting by up to 20% for each employee in my department. </p>
                         </div>
                 </div>
                 <div className="row border border-black bg bg-dark text-center text-white mt-5 py-5 rounded" >

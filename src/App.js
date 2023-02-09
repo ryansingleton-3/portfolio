@@ -28,9 +28,9 @@ function App() {
         <div>
           <div className="bg bg-primary">
               <nav className='text-center d-flex justify-content-around py-1 text-dark'>
-                  <Link to="/" className="text-white">About</Link>
-                  <Link to="/portfolio" className="text-white">Portfolio</Link>
-                  <Link to="/resume" className="text-white">Resume</Link>
+                  <Link to="/" className="text-white nav-text">About</Link>
+                  <Link to="/portfolio" className="text-white nav-text">Portfolio</Link>
+                  <Link to="/resume" className="text-white nav-text">Resume</Link>
             </nav>
           </div>   
           <Switch>

@@ -44,14 +44,14 @@ function Technologies() {
         },
     ]
     return ( 
-        <div className="bg bg-dark rounded">
+        <div className="bg bg-dark rounded pb-5">
             {technologies.map((item, index) => {
                 return <img 
                 src={item.image} 
                 alt={item.name} 
                 key={index} 
-                width="5%"
-                height="5%" 
+                width="10%"
+                // height="25%" 
                 className="logos mx-5 my-4 rounded"></img>
             })}
         </div>
