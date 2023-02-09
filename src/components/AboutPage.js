@@ -18,14 +18,14 @@ function AboutPage() {
                     </div>
                     <div className="col-lg d-flex text-center  justify-content-center">
                         <div>
-                            <img src={RyanPortrait} height="300px" className="rounded-circle"></img>
+                            <img src={RyanPortrait} height="300px" className="rounded-circle main-images"></img>
                         </div>
                     </div>
                 </div>
                 <div className="row bg bg-secondary text-white mt-5 py-5 rounded text-center d-flex align-items-center justify-content-center" >
                     <div className="col-lg d-flex text-center align-items-center justify-content-center">
                         <div className=" my-2 py-2">
-                            <img src={FamilyPhoto} height="400px" className="rounded"></img>
+                            <img src={FamilyPhoto} maxheight="400px" className="rounded main-images"></img>
                         </div>
                     </div>
                     <div className="col-lg text-center d-flex align-items-center justify-content-center">

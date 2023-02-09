@@ -45,12 +45,23 @@
 }
 
 .nav-text {
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   text-decoration: none;
+  padding: 3% 3% 3% 3%;
 }
 
 .nav-text:hover {
   background-color: grey;
   border-radius: 10px;
-  padding: 10px 10px 10px 10px;
+  padding: 3% 3% 3% 3%;
+}
+
+.main-images {
+  max-width: 90%;
+}
+
+@media only screen and (max-width: 300px) { 
+  body {
+    width: 100%;
+  }
 }
