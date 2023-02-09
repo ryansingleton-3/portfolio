@@ -44,15 +44,17 @@ function Technologies() {
         },
     ]
     return ( 
-        <div className="bg bg-dark rounded pb-5">
+        <div className="bg bg-dark rounded pb-5 d-sm-flex align-items-around justify-content-around flex-wrap
+        ">
             {technologies.map((item, index) => {
                 return <img 
                 src={item.image} 
                 alt={item.name} 
-                key={index} 
-                width="10%"
+                key={index}
+                style={{minWidth: "3%", maxWidth: "10%"}}
+                // width="10%"
                 // height="25%" 
-                className="logos mx-5 my-4 rounded"></img>
+                className="logos mx-3 my-4 rounded flex-wrap"></img>
             })}
         </div>
      );
