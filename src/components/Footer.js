@@ -43,7 +43,8 @@ function Footer() {
                 src={item.image} 
                 alt={item.name} 
                 key={index.toString()} 
-                height="100px" 
+                height="3%"
+                width="3%" 
                 className="logos mx-5 my-4 rounded-circle">
                 </img>
                 // </a>

@@ -50,7 +50,8 @@ function Technologies() {
                 src={item.image} 
                 alt={item.name} 
                 key={index} 
-                height="100px" 
+                width="5%"
+                height="5%" 
                 className="logos mx-5 my-4 rounded"></img>
             })}
         </div>
