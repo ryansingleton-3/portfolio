@@ -79,8 +79,22 @@ function ResumePage() {
                                             <li>Collaborate with both external and internal teams of 10+ people to reach individual and company-wide sales and efficiency goals</li>
                                         </ul>
                                     </Accordion.Body>
-                                </Accordion.Item>
+                                </Accordion.Item> 
                                 <Accordion.Item className="text-center" eventKey="1">
+                                    <Accordion.Header className="text-center">Bilingual Fraud Specialist</Accordion.Header>
+                                    <Accordion.Body>
+                                        <h3>JPMorgan Chase & Co.</h3>
+                                        <ul>
+                                            <li>Engage in interactive dialogue with customers through active listening</li>
+                                            <li>Determine customer needs and provide appropriate solutions through relationship building</li>
+                                            <li>Use effective verbal and written communications with both external and internal customers</li>
+                                            <li>Effectively prioritize work to ensure efficiency in a fast-paced environment</li>
+                                            <li>Abide by all applicable regulatory and department practices and procedures</li>
+                                            <li>Be familiar and fluent with all Windows Operating Systems and Microsoft Office Tools</li>
+                                        </ul>
+                                    </Accordion.Body>
+                                </Accordion.Item>
+                                <Accordion.Item className="text-center" eventKey="2">
                                     <Accordion.Header className="text-center">Assistant to the Mission President - Volunteer</Accordion.Header>
                                     <Accordion.Body>
                                     <h3>The Church of Jesus Christ of Latter-Day Saints</h3>
