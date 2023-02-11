@@ -26,7 +26,7 @@ function App() {
     <Container>
       <Router>
         <div>
-          <div className="bg bg-primary">
+          <div className="bg bg-primary sticky-top">
               <nav className='text-center d-flex justify-content-around py-1 text-dark'>
                   <Link to="/" className="text-white nav-text">About</Link>
                   <Link to="/portfolio" className="text-white nav-text">Portfolio</Link>
