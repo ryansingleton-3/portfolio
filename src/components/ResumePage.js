@@ -153,7 +153,7 @@ function ResumePage() {
                                 <li><strong>jQuery</strong></li>
                                 <li><strong>REST APIs</strong> (Fetch, Async/Await, CRUD Applications, json, AJAX)</li>
                                 <li><strong>Python</strong> (Programming with Functions)</li>
-                                <li><strong>C#</strong> (Programming with Classes (OOP))</li>
+                                <li><strong>C#</strong> (Programming with Classes (Object-Oriented Programming))</li>
                                 <li><strong>HTML</strong> (Including Semantic HTML)</li>
                                 <li><strong>CSS</strong> (Media Queries, Responsive Design, & Bootstrap)</li>
                                 <li><strong>Version Control</strong> (Git, Github)</li>
