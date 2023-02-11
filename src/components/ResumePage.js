@@ -95,6 +95,19 @@ function ResumePage() {
                                     </Accordion.Body>
                                 </Accordion.Item>
                                 <Accordion.Item className="text-center" eventKey="2">
+                                    <Accordion.Header className="text-center">Bank Teller</Accordion.Header>
+                                    <Accordion.Body>
+                                        <h3>Telhio Credit Union</h3>
+                                        <ul>
+                                            <li>Perform positively in a team environment, working toward achieving performance goals</li>
+                                            <li>Process transactions and balance cash drawers accurately and efficiently </li>
+                                            <li>Assist members with transactions and provide information on products and services</li>
+                                            <li>Present an overall professional image in the areas of dress, communications and conduct</li>
+                                            <li>Meet all new account and other feature goals set by management and work as a team to achieve them</li>
+                                        </ul>
+                                    </Accordion.Body>
+                                </Accordion.Item>
+                                <Accordion.Item className="text-center" eventKey="3">
                                     <Accordion.Header className="text-center">Assistant to the Mission President - Volunteer</Accordion.Header>
                                     <Accordion.Body>
                                     <h3>The Church of Jesus Christ of Latter-Day Saints</h3>
