@@ -7,6 +7,7 @@ import ReactJS from "../images/react.png";
 import Python from "../images/python.png";
 import Git from "../images/git.png";
 import GitHub from "../images/GitHub-Mark.png";
+import CSharp from "../images/c-sharp.png"
 
 function Technologies() {
     const technologies = [
@@ -41,6 +42,10 @@ function Technologies() {
         {
             name: "GitHub",
             image: GitHub
+        },
+        {
+            name: "C-Sharp",
+            image: CSharp
         },
     ]
     return ( 

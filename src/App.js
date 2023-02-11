@@ -30,7 +30,7 @@ function App() {
               <nav className='text-center d-flex justify-content-around py-1 text-dark'>
                   <Link to="/" className="text-white nav-text">About</Link>
                   <Link to="/portfolio" className="text-white nav-text">Portfolio</Link>
-                  <Link to="/resume" className="text-white nav-text">Resume</Link>
+                  <Link to="/resume" className="text-white nav-text">Resumé</Link>
             </nav>
           </div>   
           <Switch>
