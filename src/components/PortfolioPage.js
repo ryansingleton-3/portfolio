@@ -30,7 +30,7 @@ function PortfolioPage() {
                     <div className="col-lg text-center d-flex align-items-center justify-content-center">
                         <div>
                             <p>
-                                <em>Movie Review: </em>  This project shows a movie in a way that you might see it on a popular streaming service or review site. You can give it a star rating and a review. Each review is sent to a mock api that then renders on the page. This was created with React.js, and utilizes React Hooks like useState and UseEffect. You can also edit or delete the reviews that are submitted and that will be updated in the API as well. 
+                                <em>Movie Review: </em>  This project shows a movie in a way that you might see it on a popular streaming service or review site. You can give it a star rating and a review. Each review is sent to a mock api that then renders on the page. This was created with React, and utilizes React Hooks like useState and UseEffect. You can also edit or delete the reviews that are submitted and that will be updated in the API as well. 
 
                             </p>
                             </div>
@@ -50,7 +50,7 @@ function PortfolioPage() {
                     <div className="col-lg text-center d-flex align-items-center justify-content-center">
                         <div>
                             <p>
-                                <em>Movie Review App</em>  This project also utilizes React.js, and makes great use of components. Bootstrap is also leveraged for styling. This app allows you to leave a review for any movie, and it appears below the movie.
+                                <em>Movie Review App</em>  This project also utilizes React and makes great use of components. Bootstrap is also leveraged for styling. This app allows you to leave a review for any movie, and it appears below the movie.
 
                             </p>
                         </div>

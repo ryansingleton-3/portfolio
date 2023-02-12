@@ -138,6 +138,7 @@ function ResumePage() {
                                 <li>Languages: English & Spanish (Fluent)</li>
                                 <li>Communication (Written and Verbal)</li>
                                 <li>Ability to Learn from Mistakes/ Constant Improvement</li>
+                                <li>Development of Dynamic Webpages & Programs</li>
                             </ul>
                             </Card.Body>
                         </Card>
@@ -149,7 +150,7 @@ function ResumePage() {
                             <Card.Body>
                             <ul>
                                 <li><strong>Javascript</strong> (Including ES6, node.js)</li>
-                                <li><strong>React.js</strong> (JSX, Redux, Hooks, State, Function & Class Components)</li>
+                                <li><strong>React</strong> (JSX, Redux, Hooks, State, Function & Class Components)</li>
                                 <li><strong>jQuery</strong></li>
                                 <li><strong>REST APIs</strong> (Fetch, Async/Await, CRUD Applications, json, AJAX)</li>
                                 <li><strong>Python</strong> (Programming with Functions)</li>
@@ -157,6 +158,7 @@ function ResumePage() {
                                 <li><strong>HTML</strong> (Including Semantic HTML)</li>
                                 <li><strong>CSS</strong> (Media Queries, Responsive Design, & Bootstrap)</li>
                                 <li><strong>Version Control</strong> (Git, Github)</li>
+                                <li><strong>Debugging</strong> (Chrome Dev Tools, VS Code Debugger)</li>
                             </ul>
                             </Card.Body>
                         </Card>
